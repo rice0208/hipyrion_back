@@ -1,3 +1,6 @@
-# falog
-Like a copy of flog(https://github.com/z-t-y/flog), but will use FastAPI and Semantic UI Instead.
-'Falog' is short for FastApi bLOG.
+# Hipyrion-back
+
+*Hipyrion* is named after [*Hyperion*](https://en.wikipedia.org/wiki/Hyperion_(Titan)).
+I changed some letters because this project is written in Python.
+
+This repository is the backend part of the *Hipyrion* Project.
